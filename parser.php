@@ -26,3 +26,4 @@ else {
     $result = $results->prepareResult();
     echo json_encode($result), "\n";
 }
+//Просто коммент для студентов
